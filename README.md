@@ -1,6 +1,6 @@
-<img align="center" src="assests/banner.gif" alt="banner">
+<img align="center" src="assests/banner.gif2" alt="banner">
 
-<div style="text-align: center;">
+<div style="text-align: center;"> 
   
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=yasserjr17&data=followers,repositories,stars,commits&theme=dark)](https://github.com/1AyaNabil1/github-widgetbox) 
 </div>
