@@ -15,8 +15,20 @@
     <tr>
         <th align="Left">
                 <ul>
+<h3> 👨🏻‍💻 About Me </h3>
+<ul> 
+    <li> &nbsp; 2nd Year Computer Science student specializing in AI, with a strong foundation in Deep Learning and Machine Learning.</li>
+    <li> &nbsp; Building and implementing end-to-end AI systems, with a focus on Natural Language Processing, Computer Vision, and traditional Machine Learning applications.</li>
+    <li> &nbsp; Skilled in Python and SQL, with a strong background in developing AI-driven solutions.</li>
+    <li> &nbsp; Passionate about MLOps, always looking for ways to improve model management and deployment practices.</li>
+    <li> &nbsp; Experience with Data Engineering tools like SQL, and always exploring cloud-based and smart solutions to solve complex problems.</li>
+    <li> &nbsp; Developed practical projects like **Smart Home** automation and **Smart Environment Monitoring** systems (temperature, humidity).</li>
+    <li> &nbsp; Currently learning and applying AI techniques in projects such as **Transformers** and **CNNs** for Natural Language Processing and Computer Vision.</li>
+    <li> &nbsp; I love discussing all things AI, especially model lifecycle, deployment strategies, and real-time AI systems.</li>
+    <li> &nbsp; Reach me at <b>mohamed123@gmail.com</b>, I'm open for research collaborations and AI-related projects!</li>
+    <li> &nbsp; On a mission to master the full AI stack—starting from data processing to deployment and making a real-world impact.</li>
+</ul>
 
----
 
 ### 🛠️ Languages and Tools:
 <p align="left">
