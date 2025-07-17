@@ -9,7 +9,7 @@
 <h3 align="center">AI Enthusiast | 2nd Year Computer Science Student | Deep Learning & NLP Explorer | Passionate about Applied Data Science & MLOps</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yasserjr178&label=Profile%20views&color=0e75b6&style=flat" alt="Mohamed Yasser" /> </p>
 
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=yasserjr17&column=-1&theme=onedark" alt="Mohamed Yasser" /></p>
+
 
 <table style="width:100%", align="center">
     <tr>
