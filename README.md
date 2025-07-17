@@ -25,7 +25,7 @@
     <li> &nbsp; Developed practical projects like **Smart Home** automation and **Smart Environment Monitoring** systems (temperature, humidity).</li>
     <li> &nbsp; Currently learning and applying AI techniques in projects such as **Transformers** and **CNNs** for Natural Language Processing and Computer Vision.</li>
     <li> &nbsp; I love discussing all things AI, especially model lifecycle, deployment strategies, and real-time AI systems.</li>
-    <li> &nbsp; Reach me at <b>mohamed123@gmail.com</b>, I'm open for research collaborations and AI-related projects!</li>
+    <li> &nbsp; Reach me at <b>my6333860@gmail.com</b>, I'm open for research collaborations and AI-related projects!</li>
     <li> &nbsp; On a mission to master the full AI stack—starting from data processing to deployment and making a real-world impact.</li>
 </ul>
 
